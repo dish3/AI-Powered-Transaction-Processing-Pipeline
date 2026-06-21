@@ -1,0 +1,10 @@
+.git
+.gitignore
+.env
+uploads
+__pycache__
+*.pyc
+.pytest_cache
+*.db
+.vscode
+.idea
